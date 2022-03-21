@@ -22,26 +22,26 @@ function change(){
 /* card image change on mouseover and mouseout */
 /*img1*/
 function setNewImage(){
-  document.getElementById('img1').src="/images/c ACADEMY.jpg";
+  document.getElementById('img1').src="images/c ACADEMY.jpg";
 }
 function setOldImage(){
-  document.getElementById('img1').src="/images/colmar.jpg"
+  document.getElementById('img1').src="images/colmar.jpg"
 }
 
 /*img2*/
 function setNewImage1(){
-  document.getElementById('img2').src="/images/t games.jpg";
+  document.getElementById('img2').src="images/t games.jpg";
 }
 function setOldImage1(){
-  document.getElementById('img2').src="/images/toys.jpg"
+  document.getElementById('img2').src="images/toys.jpg"
 }
 
 /*img3*/
 function setNewImage2(){
-  document.getElementById('img3').src="/images/c door.jpg";
+  document.getElementById('img3').src="images/c door.jpg";
 }
 function setOldImage2(){
-  document.getElementById('img3').src="/images/chore.jpg"
+  document.getElementById('img3').src="images/chore.jpg"
 }
 
 /* about section readmore button */
